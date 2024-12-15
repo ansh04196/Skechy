@@ -37,7 +37,7 @@ Ensure you have the following installed on your system:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/Jay-agg/Skechy
+   git clone https://github.com/ansh04196/Skechy.git
    cd sketchy
    ```
 
